@@ -2,11 +2,8 @@
 👨‍⚖️XML (EXTENSIBLE MARKUP LANGUAGE) É UMA LINGUAGEM DE MARCAÇÃO QUE DEFINE REGRAS PARA A CODIFICAÇÃO DE DOCUMENTOS EM UM FORMATO LEGÍVEL TANTO PARA HUMANOS QUANTO PARA MÁQUINAS. ELE É USADO PARA ESTRUTURAR, ARMAZENAR E TRANSMITIR INFORMAÇÕES DE FORMA ORGANIZADA E HIERÁRQUICA. O XML É AMPLAMENTE UTILIZADO NA TROCA DE DADOS ENTRE SISTEMAS E NA CRIAÇÃO DE DOCUMENTOS ESTRUTURADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=XML)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.w3schools.com/xml/xml_whatis.asp) 
 <br>
-
-<img src="https://qph.cf2.quoracdn.net/main-qimg-c5aa8b6389fb7325d03003319d3187ad" align="center" width="280"> <br>
 
 ## CONCEITO:
 XML (Extensible Markup Language) é uma linguagem de marcação que permite a representação de dados em um formato hierárquico legível por humanos e máquinas. É amplamente usado para estruturar informações e é composto por elementos, atributos e valores. XML é frequentemente usado em tecnologias da web, integração de sistemas e armazenamento de dados, facilitando a troca e o processamento de informações entre diferentes aplicativos e plataformas. Ele também é usado em conjunto com linguagens como XPath e XSLT para navegação e transformação de dados XML.
