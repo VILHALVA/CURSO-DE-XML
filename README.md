@@ -53,6 +53,7 @@ Apesar do surgimento de novas tecnologias de troca de dados, como JSON e YAML, o
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.w3schools.com/xml/xml_whatis.asp)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:XML)
 

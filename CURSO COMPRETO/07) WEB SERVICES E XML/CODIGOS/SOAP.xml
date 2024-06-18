@@ -1,0 +1,13 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:example="http://www.example.org">
+    <soap:Header>
+        <example:credentials>
+            <example:username>user</example:username>
+            <example:password>pass</example:password>
+        </example:credentials>
+    </soap:Header>
+    <soap:Body>
+        <example:getBook>
+            <example:isbn>1234567890</example:isbn>
+        </example:getBook>
+    </soap:Body>
+</soap:Envelope>

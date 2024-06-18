@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+    <document>
+        <type>Contrato</type>
+        <title>Contrato de Prestação de Serviços</title>
+        <author>Empresa X</author>
+        <date>2024-06-18</date>
+        <content>Este é um contrato entre a Empresa X e o Cliente Y para prestação de serviços...</content>
+    </document>
+    <document>
+        <type>Relatório</type>
+        <title>Relatório Mensal de Vendas</title>
+        <author>Departamento de Vendas</author>
+        <date>2024-05-31</date>
+        <content>Relatório detalhado das vendas realizadas no mês de maio de 2024...</content>
+    </document>
+</documents>

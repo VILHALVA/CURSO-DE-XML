@@ -67,4 +67,3 @@ Vou explicar a validação XML e as duas principais abordagens usadas para valid
 
    A validação de documentos XML é o processo de verificar se um documento XML segue as regras e a estrutura definidas por uma DTD ou XSD. Isso pode ser feito usando ferramentas de validação, como o `xmllint` para DTD ou bibliotecas específicas da linguagem de programação para XSD. A validação ajuda a garantir a conformidade dos documentos XML com as especificações definidas e pode ser essencial para a integração de sistemas e a troca de dados confiável.
 
-Espero que esta explicação tenha ajudado a esclarecer a validação XML, DTD e XSD. 
